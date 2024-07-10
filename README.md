@@ -20,7 +20,8 @@
 
 <details>
     <summary> ⬜️ [SILVER LEVEL] LIST</summary>
-  
-  * [1316. 그룹 단어 체커 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Q.1316%20%5BSILVER%20-%205%5D.md)  
-  
+    <details>
+    <summary> ⬜️ [구현 문제]] LIST</summary>
+    * [1316. 그룹 단어 체커 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.1316%20%5BSILVER%20-%205%5D.md)  
+    </details>
 </details>
