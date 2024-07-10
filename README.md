@@ -21,8 +21,6 @@
 <details>
     <summary> ⬜️ [SILVER LEVEL] LIST</summary>
   
-  * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
-  * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
-
+  * [1316. 그룹 단어 체커 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Q.1316%20%5BSILVER%20-%205%5D.md)  
   
 </details>
