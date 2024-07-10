@@ -22,7 +22,7 @@
   <summary>[구현]</summary>
   <br/>
 
-* [1157. 단어 공부 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.1316%20%5BSILVER%20-%205%5D.md)
+* [1157. 단어 공부 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.1157%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80%20%5BBRONZE%20-%201%5D.md)
 </details>
 
 
@@ -32,5 +32,5 @@
   <summary>[구현]</summary>
   <br/>
 
-* [1316. 그룹 단어 체커 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.1316%20%5BSILVER%20-%205%5D.md)
+* [1316. 그룹 단어 체커 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.1316%20%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4%20%5BSILVER%20-%205%5D.md)
 </details>
