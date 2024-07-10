@@ -17,3 +17,12 @@
 ----
 
 ## 🥗 Python
+
+<details>
+    <summary> ⬜️ [SILVER LEVEL] LIST</summary>
+  
+  * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
+  * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
+
+  
+</details>
