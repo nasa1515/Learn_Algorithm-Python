@@ -16,10 +16,20 @@
 ### 시작일 : 2024.07.05 
 ----
 
+## 🟫 [BRONZE LEVEL] LIST
+
+<details>
+  <summary>[구현]</summary>
+  <br/>
+
+* [1157. 단어 공부 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.1316%20%5BSILVER%20-%205%5D.md)
+</details>
+
+
 ## ⬜️ [SILVER LEVEL] LIST
 
 <details>
-  <summary>[구현] LIST</summary>
+  <summary>[구현]</summary>
   <br/>
 
 * [1316. 그룹 단어 체커 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.1316%20%5BSILVER%20-%205%5D.md)
