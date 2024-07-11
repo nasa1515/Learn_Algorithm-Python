@@ -79,7 +79,7 @@
 
 #### 원본 코드
 
-```pyhon3
+```python3
 word_count = int(input())
 word_list = list(map(int, input().split()))
 
