@@ -23,6 +23,7 @@
   <br/>
 
 * [1157. 단어 공부 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.1157%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80%20%5BBRONZE%20-%201%5D.md)
+* [1546. 평균 [BRONZE - 1]]()
 </details>
 
 
