@@ -88,7 +88,7 @@ Venusaur
 
 ## ✅ Solution Code
 
-```pyhon3
+```python3
 import sys
 input = sys.stdin.readline
 
@@ -120,12 +120,13 @@ if __name__ == "__main__":
 
 ## ✅ Discription
 
-문제의 구현 로직은 `input() 값이 숫자면 = 문자`, `input() 값이 문자면 = 숫자`를 출력하는 간단한 로직입니다.
-다만, 이 문제를 푸는데 가장 중요한 요건은 시간 복잡도 입니다. 조건 자체가 `100,000`개 까지의 범위 만큼의 문자가 존재할 수 있는데  
-`LIST`를 이용한다고 단순히 숫자,문자를 조회해서 출력하는데 `O(N) = 10만의 경우 0(100000)` 만큼의 시간 복잡도가 발생합니다.  
-따라서 갯수와 상관없이 `key-value` 형태의 출력이 가능한 `HASH - DICT`으로 풀어야 합니다.
+문제의 구현 로직은 `input() 값이 숫자면 = 문자`, `input() 값이 문자면 = 숫자`를 출력하는 간단한 로직입니다.  
+다만, 이 문제를 푸는데 가장 중요한 요건은 시간 복잡도 입니다. 조건 자체가 `100,000`개 까지의 범위 만큼의 문자가 존재할 수 있는데   
+`LIST`를 이용한다고 단순히 숫자,문자를 조회해서 출력하는데 `O(N) = 10만의 경우 0(100000)` 만큼의 시간 복잡도가 발생합니다.    
+따라서 갯수와 상관없이 `key-value` 형태의 출력이 가능한 `HASH - DICT`으로 풀어야 합니다.  
 
-1. `input_poketmon_count, search_poketmon_count = map(int, input().split())`으로 저장할 문자의 개수와, 검색할 문자 개수의 입력을 받습니다.
+1. `map(int, input().split())`으로 저장할 문자의 개수와, 검색할 문자 개수의 표준 입력을 받습니다.
 2. 비어있는 dict을 선언하고, for 문으로 입력 받은 인수만큼의 문자를 `dict`에 `key, value`로 번갈아가면서 넣어줍니다.  
--> `"Bulbasaur","Ivysaur","Venusaur"` 세개를 넣는다면 `{1:Bulbasaur, Bulbasaur:1, 2:Ivysaur, Ivysaur:2, 3:Venusaur, Venusaur:3}`이 만들어지겠죠.  
+-> `"Bulbasaur","Ivysaur","Venusaur"` 세개를 넣는다면  
+`{1:Bulbasaur, Bulbasaur:1, 2:Ivysaur, Ivysaur:2, 3:Venusaur, Venusaur:3}`이 들어간 dict이 만들어지겠죠.  
 3. `isdigit()`으로 검색할 문자가 숫자인지 확인 후에, `dict`에 저장된 문자를 꺼내 옵니다.

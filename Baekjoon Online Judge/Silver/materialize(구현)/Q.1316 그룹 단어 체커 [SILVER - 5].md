@@ -91,7 +91,7 @@ aaaaaa
 
 ## ✅ Solution Code
 
-```pyhon3
+```python3
 
 import sys
 

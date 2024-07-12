@@ -40,5 +40,5 @@
   <summary>[자료구조]</summary>
   <br/>
 
-* [1620. 나는야 포켓몬 마스터 이다솜 [SILVER - 4]]()
+* [1620. 나는야 포켓몬 마스터 이다솜 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%08Q.1620%EB%B2%88%3A%20%EB%82%98%EB%8A%94%EC%95%BC%20%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%9D%B4%EB%8B%A4%EC%86%9C%20%5BSILVER%20-%204%5D.md)
 </details>
