@@ -42,6 +42,8 @@
   <br/>
 
 * [1316. 그룹 단어 체커 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.1316%20%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4%20%5BSILVER%20-%205%5D.md)
+* [(이차원 리스트) 2563. 색종이 [SILVER - 5]]()
+
 </details>
 
 <details>
