@@ -164,4 +164,4 @@ if __name__ == "__main__":
 
 `itertools의 가이드는 아래 사이트를 참조하면 좋습니다.`
 
-## (PYTHON itertools Guide)[https://docs.python.org/ko/3/library/itertools.html]
+## [PYTHON itertools Guide](https://docs.python.org/ko/3/library/itertools.html)

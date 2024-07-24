@@ -26,6 +26,14 @@
 * [1546. 평균 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.1546%20%ED%8F%89%EA%B7%A0%20%5BBRONZE%20-%201%5D.md)
 </details>
 
+<details>
+  <summary>[DFS]</summary>
+  <br/>
+
+* [2309. 일곱 난쟁이 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/DFS(Depth%20First%20Search)/Q.2309%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4%20%5BBRONZE%20-%201%5D.md)
+</details>
+
+
 
 ## ⬜️ [SILVER LEVEL] LIST
 
