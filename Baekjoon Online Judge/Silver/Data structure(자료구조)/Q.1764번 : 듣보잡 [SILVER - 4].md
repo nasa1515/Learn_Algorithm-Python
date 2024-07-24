@@ -1,4 +1,4 @@
-# [백준 1764번: 듣보잡](https://www.acmicpc.net/problem/1764)
+# [BOJ 1764번: 듣보잡](https://www.acmicpc.net/problem/1764)
 
 ## 문제 설명
 

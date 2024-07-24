@@ -1,4 +1,4 @@
-# [백준 1546번: 평균](https://www.acmicpc.net/problem/1546)
+# [BOJ 1546번: 평균](https://www.acmicpc.net/problem/1546)
 
 ## 문제
 
