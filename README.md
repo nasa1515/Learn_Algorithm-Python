@@ -26,8 +26,11 @@
 * [1546. 평균 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.1546%20%ED%8F%89%EA%B7%A0%20%5BBRONZE%20-%201%5D.md)  
 * [2566. 최댓값 [BRONZE - 3]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.2566%20%EC%B5%9C%EB%8C%93%EA%B0%92%20%5BBRONZE%20-%203%5D%20copy.md)  
 * [2738. 행렬 덧셈 [BRONZE - 3]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.2738%20%ED%96%89%EB%A0%AC%20%EB%8D%A7%EC%85%88%20%5BBRONZE%20-%203%5D.md)   
-* [3052. 나머지 [BRONZE - 3]]()  
-* [5597. 과제 안 내신 분..? [BRONZE - 3]]()
+* [3052. 나머지 [BRONZE - 3]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.3052%20%EB%82%98%EB%A8%B8%EC%A7%80%20%5BBRONZE%20-%203%5D%20copy.md)   
+* [5597. 과제 안 내신 분..? [BRONZE - 3]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.5597%20%EA%B3%BC%EC%A0%9C%20%EC%95%88%20%EB%82%B4%EC%8B%A0%20%EB%B6%84..%3F%20%5BBRONZE%20-%203%5D.md)  
+* [9093. 단어뒤집기 [BRONZE - 1]]()
+
+
 </details>
 
 <details>
