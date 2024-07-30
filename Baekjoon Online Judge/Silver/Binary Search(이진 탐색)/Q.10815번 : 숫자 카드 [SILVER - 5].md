@@ -1,4 +1,4 @@
-# [BOJ 10815번: 이진 탐색](https://www.acmicpc.net/problem/10815)
+# [BOJ 10815번: 숫자 카드](https://www.acmicpc.net/problem/10815)
 
 ## 문제 설명
 
