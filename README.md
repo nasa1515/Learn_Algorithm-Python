@@ -13,7 +13,23 @@
 * 기초 베이스부터 다지기 위해서 쌩 Base를 기반으로 작성하는 대피소 입니다.
 * 단순히 답만 띡 던져놓는 방식이 아닌, 각 문제 별 MD로 풀이를 정리합니다.
 
-### 시작일 : 2024.07.05 
+### 시작일 : 2024.07.10 
+
+### HISTORY
+|Date|solved|increase|
+|----|------|--------|
+|2024.07.10|solved 2| +2|
+|2024.07.11|solved 3| +1|
+|2024.07.12|solved 4| +1|
+|2024.07.15|solved 5| +1|
+|2024.07.24|solved 7| +2|
+|2024.07.25|solved 9| +2|
+|2024.07.26|solved 10| +1|
+|2024.07.27|solved 11| +1|
+|2024.07.28|solved 12| +1|
+|2024.07.29|solved 17| +5|
+|2024.07.30|solved 18| +1|
+
 ----
 
 ## 🟫 [BRONZE LEVEL] LIST
@@ -32,7 +48,7 @@
 * [10798. 세로읽기 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.10798%20%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0%20%5BBRONZE%20-%201%5D.md)
 * [10810. 공넣기 [BRONZE - 3]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.10810%20%EA%B3%B5%EB%84%A3%EA%B8%B0%20%5BBRONZE%20-%203%5D.md)  
 * [10811. 바구니 뒤집기 [BRONZE - 2]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.10811%20%EB%B0%94%EA%B5%AC%EB%8B%88%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%5BBRONZE%20-%202%5D.md)   
-* [10813. 공 바꾸기 [BRONZE - 2]]()
+* [10813. 공 바꾸기 [BRONZE - 2]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.10813%20%EA%B3%B5%20%EB%B0%94%EA%BE%B8%EA%B8%B0%20%5BBRONZE%20-%202%5D.md)
  
 </details>
 
