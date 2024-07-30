@@ -75,6 +75,14 @@
 </details>
 
 <details>
+  <summary>[Binary Search] 이진탐색</summary>
+  <br/>
+
+* [10815. 숫자 카드 [SILVER - 5]]()  
+
+</details>
+
+<details>
   <summary>[자료구조]</summary>
   <br/>
 
