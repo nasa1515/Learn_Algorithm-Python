@@ -103,7 +103,8 @@ if __name__ == "__main__":
 ## ✅ Discription
 
 이전에 풀었던 [`BOJ 10815. 숫자 카드 [SILVER - 5]`](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Binary%20Search(%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89)/Q.10815%EB%B2%88%20%3A%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%5BSILVER%20-%205%5D.md)와 거의 동일한 유형의 문제입니다.  
-해당 문제에서는 단순히 찾을 값의 존재 여부에 따라서, `0 or 1`로 나타내는 출력 형태 였다면, 이번 문제에서는 실제로 문자열 리스트안에서 해당 값의 `Count`를 세서 출력하는 문제입니다.  
+해당 문제에서는 단순히 찾을 값의 존재 여부에 따라서, `0 or 1`로 나타내는 출력 형태 였다면  
+이번 문제에서는 실제로 문자열 리스트안에서 해당 값의 `Count`를 세서 출력하는 문제입니다.  
 
 * 결론적으로, 실제 이분 탐색 알고리즘에서 Return의 범위를 `True or False`에서 해당 인자의 갯수로 확장해야 합니다.  
 
@@ -147,7 +148,7 @@ Python 내장 모듈인 `Bisect`모듈을 사용해서 풀이해봤습니다.
 * [참고](https://docs.python.org/ko/3.7/library/bisect.html)
 
 `Bisect` 모듈은 첫번째 인자로, Array를 받고, 두번째 인자로 목적 값을 받습니다.  
-최종적으로 `bisect_right, bisect_left, bisect` 등의 내장함수로 해당 인자값이 정렬적으로 삽입 될 경우 몇번째 인덱스 위치에 있어야 하는지 인덱스 위치를 반환해줍니다.  
+`bisect_right, bisect_left, bisect` 등 내부 함수로 인자값이 삽입 될 경우 삽입 가능한 정렬적 인덱스 위치 값을 반환해줍니다.   
 따라서 위의 경우, 만약 10이 3개가 있다면, 10이 삽입 될 수 있는 가장 왼쪽의 인덱스와 10이 삽입 될 수 있는 가장 오른쪽 인덱스의 차를 구하면, 현재 Array 안에 10이 몇개 있는디 인덱스의 차를 통해서 계산할 수 있게됩니다. 
 
 
