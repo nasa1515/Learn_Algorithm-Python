@@ -29,6 +29,7 @@
 |2024.07.28|solved 12| +1|
 |2024.07.29|solved 17| +5|
 |2024.07.30|solved 19| +2|
+|2024.07.31|solved 20| +1|
 
 ----
 
@@ -79,7 +80,7 @@
   <br/>
 
 * [10815. 숫자 카드 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Binary%20Search(%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89)/Q.10815%EB%B2%88%20%3A%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%5BSILVER%20-%205%5D.md)  
-* [10816. 숫자 카드 2 [SILVER - 4]]()
+* [10816. 숫자 카드 2 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Binary%20Search(%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89)/Q.10816%EB%B2%88%20%3A%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202%20%5BSILVER%20-%204%5D.md)
 
 </details>
 
