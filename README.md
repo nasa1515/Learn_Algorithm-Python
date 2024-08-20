@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Python%20Learn%20Storage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=learning%20and%20Working%20by%20Python!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Python%20Storage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=learning%20and%20Working%20by%20Python!&descAlignY=51&descAlign=62"/>
 </p>
 
 <div align = "center">
@@ -23,11 +23,16 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws_nasa1515&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws\_nasa1515&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>  
+
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={ws_nasa1515})](https://solved.ac/{ws_nasa1515})
 
 </div>
 
 ----
+
+<div align="left">
+
 
 ## 🟫 [BRONZE LEVEL] LIST
 
@@ -90,3 +95,5 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 * [(STACK/QUEUE) 12789. : 도키도키 간식드리미 [SILVER - 3]]()
 
 </details>
+
+</div>
