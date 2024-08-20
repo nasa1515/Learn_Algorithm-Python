@@ -94,7 +94,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [(문자열) 2941. 크로아티아 알파벳 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.2941%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%5BSILVER%20-%205%5D.md)
   * [(Stack) 10773. 제로 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.10773%20%EC%A0%9C%EB%A1%9C%20%5BSILVER%20-%204%5D.md)  
   * [25206. 너의 평점은 [SILVER - 5]]()  
-  
+
   </details>
 
   <br/>
@@ -115,10 +115,11 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
     <br/>
 
   * [1620. 나는야 포켓몬 마스터 이다솜 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%08Q.1620%EB%B2%88%3A%20%EB%82%98%EB%8A%94%EC%95%BC%20%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%9D%B4%EB%8B%A4%EC%86%9C%20%5BSILVER%20-%204%5D.md)  
+  * [(STACK 응용) 9012. : 괄호  [SILVER - 4]]()  
   * [1764. 듣보잡 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/Q.1764%EB%B2%88%20%3A%20%EB%93%A3%EB%B3%B4%EC%9E%A1%20%5BSILVER%20-%204%5D.md)  
   * [(STACK 구현) 10828. : 스택 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/Q.10828%EB%B2%88%20%3A%20%EC%8A%A4%ED%83%9D%20%5BSILVER%20-%204%5D.md)  
   * [(STACK/QUEUE) 12789. : 도키도키 간식드리미 [SILVER - 3]]()
-
+ 
   </details>
 
 
