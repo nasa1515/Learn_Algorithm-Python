@@ -22,10 +22,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
 
 <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws\_nasa1515&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>  
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={ws_nasa1515})](https://solved.ac/{ws_nasa1515})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ws_nasa1515)](https://solved.ac/ws_nasa1515)
 
 </div>
 
