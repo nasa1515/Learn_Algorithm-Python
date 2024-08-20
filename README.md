@@ -1,36 +1,31 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Python%20Learn%20Storage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=learning%20and%20Working%20by%20Python!&descAlignY=51&descAlign=62"/>
+</p>
 
-# Python Algorithm Storage of NASA1515
-
-[![Watch on GitHub](https://img.shields.io/github/watchers/nasa1515/Learn_Algorithm-Python.svg?style=social)](https://github.com/nasa1515/Learn_Algorithm-Python/watchers)
-[![Star on GitHub](https://img.shields.io/github/stars/nasa1515/Learn_Algorithm-Python.svg?style=social)](https://github.com/nasa1515/Learn_Algorithm-Python/stargazers)
-[![Fork on GitHub](https://img.shields.io/github/forks/nasa1515/Learn_Algorithm-Python.svg?style=social)](https://github.com/nasa1515/Learn_Algorithm-Python/network/members)
-[![Fork on GitHub](https://img.shields.io/github/followers/nasa1515.svg?style=social)](https://github.com/nasa1515/Learn_Algorithm-Python/network/members)
+<div align = "center">
 
 
-<img src="./Resource/Readme.jpg" alt="이미지 설명" width="700" height="450"/>
+### 🖐 Hi EveryOne! 🖐
 
-경험하고 학습한 Python과 관련된 내용을 정리하고, Python으로 구현하는 Algorithm 문제를 정리한 대피소입니다.    
-* 기초 베이스부터 다지기 위해서 쌩 Base를 기반으로 작성하는 대피소 입니다.
-* 단순히 답만 띡 던져놓는 방식이 아닌, 각 문제 별 MD로 풀이를 정리합니다.
+경험하고 학습했던 Python과 내용을 정리하고, Python Algorithm 문제를 정리한 저장소 입니다.  
+이 저장소는 아래와 같은 목적성을 가지고 있습니다.    
+<br/>
+**1. 기초 단계 Base부터 시작하는 지식 저장소.**  
+**2. 문제의 경우 풀이를 정리하는 방식을 지향합니다.**  
 
-### 시작일 : 2024.07.10 
+<br/> 
+<br/>
 
-### HISTORY
-|Date|solved|increase|
-|----|------|--------|
-|2024.07.10|solved 2| +2|
-|2024.07.11|solved 3| +1|
-|2024.07.12|solved 4| +1|
-|2024.07.15|solved 5| +1|
-|2024.07.24|solved 7| +2|
-|2024.07.25|solved 9| +2|
-|2024.07.26|solved 10| +1|
-|2024.07.27|solved 11| +1|
-|2024.07.28|solved 12| +1|
-|2024.07.29|solved 17| +5|
-|2024.07.30|solved 19| +2|
-|2024.07.31|solved 20| +1|
-|2024.08.01|solved 21| +1|
+### <u>Start_Date : 2024.07.10</u>    
+
+GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기 
+
+
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws_nasa1515&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
+</div>
 
 ----
 
