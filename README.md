@@ -93,7 +93,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [(이차원 리스트) 2563. 색종이 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.2563%20%EC%83%89%EC%A2%85%EC%9D%B4%20%5BSILVER%20-%205%5D.md)  
   * [(문자열) 2941. 크로아티아 알파벳 [SILVER - 5]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.2941%20%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%5BSILVER%20-%205%5D.md)
   * [(Stack) 10773. 제로 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/materialize(%EA%B5%AC%ED%98%84)/Q.10773%20%EC%A0%9C%EB%A1%9C%20%5BSILVER%20-%204%5D.md)  
-
+  * [25206. 너의 평점은 [SILVER - 5]]()  
+  
   </details>
 
   <br/>
