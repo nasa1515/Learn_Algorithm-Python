@@ -155,9 +155,9 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [(STACK 응용) 9012. : 괄호  [SILVER - 4]]()  
   * [1764. 듣보잡 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/Q.1764%EB%B2%88%20%3A%20%EB%93%A3%EB%B3%B4%EC%9E%A1%20%5BSILVER%20-%204%5D.md)  
   * [(STACK 구현) 10828. : 스택 [SILVER - 4]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/Q.10828%EB%B2%88%20%3A%20%EC%8A%A4%ED%83%9D%20%5BSILVER%20-%204%5D.md)  
-  * [(STACK/QUEUE) 12789. : 도키도키 간식드리미 [SILVER - 3]]()
-  * [(STACK) 10799. : 쇠막대기 [SILVER - 2]]()  
-  
+  * [(STACK/QUEUE) 12789. : 도키도키 간식드리미 [SILVER - 3]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/Q.12789%EB%B2%88%20%3A%20%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%20%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8%20%5BSILVER%20-%203%5D.md)
+  * [(STACK) 10799. : 쇠막대기 [SILVER - 2]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Silver/Data%20structure(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/Q.10799%EB%B2%88%20%3A%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0%20%5BSILVER%20-%202%5D.md)  
+
   </details>
 
 
