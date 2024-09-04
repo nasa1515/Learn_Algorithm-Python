@@ -73,7 +73,7 @@ print(array[K-1])
 
 ## ✅ [내부 함수 sort(), sorted() 를 사용] Discription
 
-가장 첫번째 풀이로는 Python 내부 함수에 존재하는 `sort`, `sorted`를 사용한 풀이입니다. 
+가장 첫번째 풀이로는 Python 내부 함수에 존재하는 `sort`, `sorted`를 사용한 풀이입니다.  
 굉장히 간단하게 풀이가 가능하고, 따로 sorted의 로직을 알지 못해도, 구현이 가능한 python의 장점이 담겨있습니다.  
 
 <div align="center">
@@ -81,6 +81,9 @@ print(array[K-1])
   ### [문제를 풀기위한 요구조건은 무엇일까?]
 
 </div>
+
+<br/>
+<br/>
 
 알고리즘 풀이를 위해서 필수적으로 완수해야 할 요건을 아래와 같습니다. 
 
@@ -154,12 +157,16 @@ if __name__ == "__main__":
 간단하게 요약하자면, 중간 `pivot` 값을 구한 뒤, 해당 `pivot` 값보다 작은 값은 `left` 영역에, 큰 값은 `right` 영역으로 `swap`해서  
 최종적으로 찾아야 할 index의 위치와 `pivot`의 위치를 비교해서, 전체 arr를 확인하는 것이 아닌, 반씩 쪼갠 Index에서만 찾는 방식입니다.  
 
-/![image](https://github.com/user-attachments/assets/eec6c66c-4087-4f8f-9e1a-ba1c56f8b5a3)
+![image](https://github.com/user-attachments/assets/2c9b22e6-0848-4a1d-9856-791fd7416c28)  
 
 위의 그림을 보면 이해가 쉬운데, pivot 값을 기준으로 정렬한 뒤, pivot 위치를 기준으로 다시 확인 할 array index range를 정하게 됩니다.  
 
-추가적 자세한 로직의 설명은 제 블로그 글에, 정렬과 관련하여 정리했습니다.
+추가적 자세한 로직의 설명은 제 블로그 글을 참고 부탁드립니다.
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 
