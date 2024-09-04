@@ -157,7 +157,11 @@ if __name__ == "__main__":
 간단하게 요약하자면, 중간 `pivot` 값을 구한 뒤, 해당 `pivot` 값보다 작은 값은 `left` 영역에, 큰 값은 `right` 영역으로 `swap`해서  
 최종적으로 찾아야 할 index의 위치와 `pivot`의 위치를 비교해서, 전체 arr를 확인하는 것이 아닌, 반씩 쪼갠 Index에서만 찾는 방식입니다.  
 
+<div align="center">
+
 ![image](https://github.com/user-attachments/assets/2c9b22e6-0848-4a1d-9856-791fd7416c28)  
+
+</div>
 
 위의 그림을 보면 이해가 쉬운데, pivot 값을 기준으로 정렬한 뒤, pivot 위치를 기준으로 다시 확인 할 array index range를 정하게 됩니다.  
 
@@ -212,6 +216,10 @@ if __name__ == "__main__":
 * 다음으로는 각 그룹 (list) 별로 몇개의 원소가 존재하는지 살펴봅니다 (len)
 * 가장 작은 것, 작은것 + 같은것 / 두가지 조건으로 찾아야 하는 인덱스와 비교해보면, 그 길이보다 작으면 왼쪽, 크면 오른족에 해당 인덱스가 존재합니다.  
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 
