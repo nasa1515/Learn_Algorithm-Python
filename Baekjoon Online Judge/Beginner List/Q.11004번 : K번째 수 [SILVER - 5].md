@@ -226,3 +226,65 @@ if __name__ == "__main__":
 ## ✅ [Merge-Sort] Solution Code
 
 ```python3
+import sys
+
+def merge_sort(arr:list[int]) -> None:
+    
+    if len(arr) <= 1: # 배열의 크기가 1이 될 경우 재귀 종료
+        return
+    
+    L_ARR = arr[:len(arr)//2] # 왼쪽 배열은 중간 값 이전 값
+    R_ARR = arr[len(arr)//2:] # 오른쪽 배열은 중간 값 이후 값
+    
+    merge_sort(L_ARR) # 재귀를 실행시켜 각 인자가 1개씩으로 분할
+    merge_sort(R_ARR) # 재귀를 실행시켜 각 인자가 1개씩으로 분할
+    
+    L_index, R_index, merge_index = 0, 0, 0
+    
+    while L_index < len(L_ARR) and R_index < len(R_ARR):
+    
+        if L_ARR[L_index] < R_ARR[R_index]:
+            arr[merge_index] = L_ARR[L_index]
+            L_index += 1
+        else:
+            arr[merge_index] = R_ARR[R_index]
+            R_index += 1
+            
+        merge_index += 1
+
+    while L_index < len(L_ARR):
+        arr[merge_index] = L_ARR[L_index]
+        L_index += 1
+        merge_index += 1
+    
+    while R_index < len(R_ARR):
+        arr[merge_index] = R_ARR[R_index]
+        R_index += 1
+        merge_index += 1
+        
+if __name__ == "__main__":
+    
+    input = sys.stdin.readline
+    
+    N, K = map(int, input().split()) ## N , K 에 해당하는 입력 값 받기
+    arr = list(map(int, input().split())) # arr 받기
+    
+    merge_sort(arr) # arr를 merge sort
+    print(arr[K-1])
+```
+
+## ✅ [Merge-Sort] Discription
+
+두번째의 정답인 `Quick-select`로 구현한 정확한 이유는 `Quick-Sort`로는 시간초과가 발생했기 때문입니다.  
+그럴수 밖에 없는게, `Quick-sort`의 최악의 시간 복잡도는 `O(n2)`이기 때문에, 단순히 `Quick-select`로 구현해 `O(nlogk)`로 그 시간복잡도를 줄였을 뿐입니다.  
+`Merge-sort`의 경우, Array안의 정렬 상태가 어떻든, 최악의 경우에도 `O(nlogn)`의 시간 복잡도를 지원하기 때문에, 이번 문제에서는 `Merge sort`가 더 적합합니다.      
+
+따로 블로그에, 병합 정렬에 대해서 자세하게 로직 설명을 할 예정이라 문제 풀이에서는 간단하게 설명하겠습니다.  
+
+간단하게 병합 정렬은 각 리스트의 인자들의 크기가 1이 될때 까지 분할한 뒤에, 1로 나뉘어진 인자들 끼리 비교해서 정렬하는 로직입니다.  
+
+* 먼저 `merge_sort()` 함수에 전달된 리스트를 기준으로 `left, right` 리스트 반씩 분할해, 1개의 인자가 남을 때 까지 `Recursive` 합니다.  
+* 1개의 인자가 남은 리스트 (left, right)는 아래 while의 조건에 따라서 병합됩니다. 
+    * Pointer 2개로 left, right의 index를 비교해가면서 더 작은 value를 우선적으로 삽입하며 정렬합니다.  
+    * 최종적으로는 ex) 4 1 2 3 5 의 경우 [1 2 4] [3 5] 두개가 pointer로 비교되면서 [1 2 3 4 5]로 정렬됩니다.
+
