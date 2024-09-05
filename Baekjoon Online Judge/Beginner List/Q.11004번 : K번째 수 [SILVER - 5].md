@@ -205,7 +205,7 @@ if __name__ == "__main__":
     arr = list(map(int, inputs().split())) 
     result = q_select(arr, k)
     print(result)
-```
+``` 
 
 ## ✅ [Quick-Select] Discription
 
