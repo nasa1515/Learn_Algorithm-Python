@@ -88,7 +88,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   <details>
   <summary>[구현]</summary>
   <br/>
-s
+
   * [1157. 단어 공부 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.1157%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80%20%5BBRONZE%20-%201%5D.md)
   * [1546. 평균 [BRONZE - 1]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.1546%20%ED%8F%89%EA%B7%A0%20%5BBRONZE%20-%201%5D.md)  
   * [2566. 최댓값 [BRONZE - 3]](https://github.com/nasa1515/Learn_Algorithm-Python/blob/main/Baekjoon%20Online%20Judge/Bronze/materialize(%EA%B5%AC%ED%98%84)/Q.2566%20%EC%B5%9C%EB%8C%93%EA%B0%92%20%5BBRONZE%20-%203%5D%20copy.md)  
